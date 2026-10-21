@@ -1,0 +1,2 @@
+1. Install NPM from https://nodejs.org/en/download version 24.22.1(LTS)
+2. Install angular cli using the command: npm install -g @angular/cli
